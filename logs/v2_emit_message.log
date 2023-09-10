@@ -1,0 +1,12 @@
+2023-09-10 15:49:18,868.v2_emit_message.INFO ==================================================
+2023-09-10 15:49:18,868.v2_emit_message.INFO Today is 2023-09-10 at 03:49 PM
+2023-09-10 15:49:18,869.v2_emit_message.INFO Running on: nt Windows 10
+2023-09-10 15:49:18,869.v2_emit_message.INFO Python version:  3.11.3
+2023-09-10 15:49:18,870.v2_emit_message.INFO Python path: C:\Users\wadej\OneDrive\Documents\streaming-03-rabbitmq\.venv
+2023-09-10 15:49:18,870.v2_emit_message.INFO Working dir: C:\Users\wadej\OneDrive\Documents\streaming-03-rabbitmq
+2023-09-10 15:49:18,871.v2_emit_message.INFO ==================================================
+2023-09-10 15:49:18,884.v2_emit_message.INFO  [x] Sent Hello World!
+2023-09-10 15:49:18,893.v2_emit_message.INFO  [x] Sent Message #1 - For Breakfast I ate a donut
+2023-09-10 15:49:18,904.v2_emit_message.INFO  [x] Sent Message #2 - I spent all morning trying to get RabbitMQ downloaded!
+2023-09-10 15:49:18,910.v2_emit_message.INFO  [x] Sent Message #3 - I have enjoyed using RabbitMQ this afternoon.
+2023-09-10 15:49:18,921.v2_emit_message.INFO  [x] Sent Message #4 - Hopefully this works and I am done with this assignment!

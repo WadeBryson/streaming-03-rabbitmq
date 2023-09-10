@@ -66,4 +66,8 @@ def send_message(host: str, queue_name: str, message: str):
 # If this is the script we are running, then call some functions and execute code!
 # ---------------------------------------------------------------------------
 if __name__ == "__main__":
-    send_message("llllocalhost", "hello", "Hello World!")
+    send_message("localhost", "hello", "Hello World!")
+    send_message("localhost", "hello", "Message #1 - For Breakfast I ate a donut")
+    send_message("localhost", "hello", "Message #2 - I spent all morning trying to get RabbitMQ downloaded!")
+    send_message("localhost", "hello", "Message #3 - I have enjoyed using RabbitMQ this afternoon.")
+    send_message("localhost", "hello", "Message #4 - Hopefully this works and I am done with this assignment!")
