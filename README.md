@@ -1,5 +1,8 @@
 # streaming-03-rabbitmq
 
+<img align="center" width="921" height="483" src="v2_emit_message.png">
+<img align="center" width="921" height="483" src="v2_listen_for_messages.png">
+
 > Get started with RabbitMQ, a message broker, that enables multiple processes to communicate reliably through an intermediary.
 
 This project requires some free code - beyond that available in the Python Standard Library. To avoid messing up our local default Python installation, and any other Python projects we may have, we  create a local virtual environment to install and use these libraries.
