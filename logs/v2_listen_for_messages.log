@@ -1,10 +1,15 @@
-2023-09-10 15:55:06,847.v2_listen_for_messages.INFO ==================================================
-2023-09-10 15:55:06,847.v2_listen_for_messages.INFO Today is 2023-09-10 at 03:55 PM
-2023-09-10 15:55:06,848.v2_listen_for_messages.INFO Running on: nt Windows 10
-2023-09-10 15:55:06,848.v2_listen_for_messages.INFO Python version:  3.11.3
-2023-09-10 15:55:06,848.v2_listen_for_messages.INFO Python path: C:\Users\wadej\OneDrive\Documents\streaming-03-rabbitmq\.venv
-2023-09-10 15:55:06,848.v2_listen_for_messages.INFO Working dir: C:\Users\wadej\OneDrive\Documents\streaming-03-rabbitmq
-2023-09-10 15:55:06,849.v2_listen_for_messages.INFO ==================================================
-2023-09-10 15:55:06,861.v2_listen_for_messages.INFO  [*] Waiting for messages. To exit press CTRL+C
-2023-09-10 15:56:01,910.v2_listen_for_messages.WARNING User interrupted the listening process.
-2023-09-10 15:56:01,911.v2_listen_for_messages.INFO Closing connection. Goodbye.
+2023-09-10 16:13:55,227.v2_listen_for_messages.INFO ==================================================
+2023-09-10 16:13:55,227.v2_listen_for_messages.INFO Today is 2023-09-10 at 04:13 PM
+2023-09-10 16:13:55,227.v2_listen_for_messages.INFO Running on: nt Windows 10
+2023-09-10 16:13:55,228.v2_listen_for_messages.INFO Python version:  3.11.3
+2023-09-10 16:13:55,228.v2_listen_for_messages.INFO Python path: C:\Users\wadej\OneDrive\Documents\streaming-03-rabbitmq\.venv
+2023-09-10 16:13:55,228.v2_listen_for_messages.INFO Working dir: C:\Users\wadej\OneDrive\Documents\streaming-03-rabbitmq
+2023-09-10 16:13:55,229.v2_listen_for_messages.INFO ==================================================
+2023-09-10 16:13:55,244.v2_listen_for_messages.INFO  [*] Waiting for messages. To exit press CTRL+C
+2023-09-10 16:13:55,244.v2_listen_for_messages.INFO Received: Hello World!
+2023-09-10 16:13:55,244.v2_listen_for_messages.INFO Received: Message #1 - For Breakfast I ate a donut
+2023-09-10 16:13:55,244.v2_listen_for_messages.INFO Received: Message #2 - I spent all morning trying to get RabbitMQ downloaded!
+2023-09-10 16:13:55,244.v2_listen_for_messages.INFO Received: Message #3 - I have enjoyed using RabbitMQ this afternoon.
+2023-09-10 16:13:55,244.v2_listen_for_messages.INFO Received: Message #4 - Hopefully this works and I am done with this assignment!
+2023-09-10 16:14:45,291.v2_listen_for_messages.WARNING User interrupted the listening process.
+2023-09-10 16:14:45,292.v2_listen_for_messages.INFO Closing connection. Goodbye.
